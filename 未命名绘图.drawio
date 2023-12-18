@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T11:57:22.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6nBn4Wf-XqrIbt0_E63C" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T12:31:13.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AJBfSo1zfKLy3C5tnDj3" version="22.1.11" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -31,6 +31,12 @@
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-28" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="530" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="SSFar1ZfGdF0vFPYDZeS-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="SSFar1ZfGdF0vFPYDZeS-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-36" value="饮食" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,8 +46,23 @@
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-46" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SSFar1ZfGdF0vFPYDZeS-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-49" value="运动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-52" target="SSFar1ZfGdF0vFPYDZeS-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-52" value="营养摄入趋势" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-54" target="SSFar1ZfGdF0vFPYDZeS-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-54" value="后端读表获取所有营养摄入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-57" value="当日能量摄入&lt;br&gt;calory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
