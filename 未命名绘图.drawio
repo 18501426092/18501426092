@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T13:58:25.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EWaJs7Xkq5ryXiUTZJiQ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T14:01:34.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CONSV-qTry3ZVBCy6Tfo" version="22.1.11" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3200" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3725" dy="2578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,11 +8,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-5" value="预测系统业务流程(小程序端)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="920" y="-130" width="160" height="60" as="geometry" />
+          <mxGeometry x="1470" y="-120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SSFar1ZfGdF0vFPYDZeS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-31" target="SSFar1ZfGdF0vFPYDZeS-26" edge="1">
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-59" target="SSFar1ZfGdF0vFPYDZeS-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1550" y="360" />
+              <mxPoint x="800" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-26" target="SSFar1ZfGdF0vFPYDZeS-28" edge="1">
@@ -60,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-46" value="用户登录/注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-49" target="SSFar1ZfGdF0vFPYDZeS-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -302,46 +306,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-24" value="GET/POST&lt;br&gt;用户信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-26" value="用户个人信息表" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="-10" width="60" height="60" as="geometry" />
+          <mxGeometry x="2160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=classic;startFill=1;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-24" target="5V-Vk_9uM_ialSbS6ZoF-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="20" as="sourcePoint" />
-            <mxPoint x="1610" y="20" as="targetPoint" />
+            <mxPoint x="1850" y="30" as="sourcePoint" />
+            <mxPoint x="2160" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-29" value="select/insert用户信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-46" target="5V-Vk_9uM_ialSbS6ZoF-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="50" as="sourcePoint" />
-            <mxPoint x="1000" y="225" as="targetPoint" />
+            <mxPoint x="1550" y="60" as="sourcePoint" />
+            <mxPoint x="1550" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-34" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-31" target="5V-Vk_9uM_ialSbS6ZoF-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-31" value="填写用户状态信息&lt;br&gt;(疾病史)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1490" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-37" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-33" target="5V-Vk_9uM_ialSbS6ZoF-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-33" value="POST&lt;br&gt;用户状态信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-39" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-36" target="5V-Vk_9uM_ialSbS6ZoF-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-36" value="insert用户状态信息" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1950" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-38" value="用户状态信息表" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="110" width="60" height="60" as="geometry" />
+          <mxGeometry x="2160" y="120" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-42" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-40" target="5V-Vk_9uM_ialSbS6ZoF-41">
           <mxGeometry relative="1" as="geometry" />
@@ -389,6 +393,26 @@
         </mxCell>
         <mxCell id="5V-Vk_9uM_ialSbS6ZoF-48" value="insert心理健康数据" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1001.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5V-Vk_9uM_ialSbS6ZoF-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-31" target="5V-Vk_9uM_ialSbS6ZoF-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="180" as="sourcePoint" />
+            <mxPoint x="1350" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5V-Vk_9uM_ialSbS6ZoF-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="5V-Vk_9uM_ialSbS6ZoF-59" target="5V-Vk_9uM_ialSbS6ZoF-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="360" />
+              <mxPoint x="2340" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5V-Vk_9uM_ialSbS6ZoF-59" value="进入系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5V-Vk_9uM_ialSbS6ZoF-62" value="预测" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
