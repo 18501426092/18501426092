@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T13:57:28.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1KwjkoB6FEtZc1qnm8OX" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T05:57:12.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VL0ww9fzjQwSvbYaW4pK" version="22.1.11" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1400" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="SSFar1ZfGdF0vFPYDZeS-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="SSFar1ZfGdF0vFPYDZeS-111">
+        <mxCell id="cFecmpB_I7udm7z9pZme-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="SSFar1ZfGdF0vFPYDZeS-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="600" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="cFecmpB_I7udm7z9pZme-30">
+        <mxCell id="cFecmpB_I7udm7z9pZme-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-36" target="cFecmpB_I7udm7z9pZme-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="620" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-54" value="selectAll营养摄入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-57" value="GET&lt;br&gt;显示当日能量摄入&lt;br&gt;userId，recordsTime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-63" value="select当日的营养摄入&lt;br&gt;calory" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-65" target="SSFar1ZfGdF0vFPYDZeS-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-65" value="营养摄入表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1304" width="60" height="60" as="geometry" />
+          <mxGeometry x="160" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-68" target="SSFar1ZfGdF0vFPYDZeS-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,22 +128,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-73" value="selectAll运动种类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2260" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="2260" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-75" target="SSFar1ZfGdF0vFPYDZeS-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-75" value="运动种类表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2290" y="1304" width="60" height="60" as="geometry" />
+          <mxGeometry x="2290" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-77" value="insert运动记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2110" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="2110" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-79" target="SSFar1ZfGdF0vFPYDZeS-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-79" value="运动记录表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2140" y="1304" width="60" height="60" as="geometry" />
+          <mxGeometry x="2140" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-81" target="SSFar1ZfGdF0vFPYDZeS-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -180,12 +180,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-84" value="能量消耗表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="1304" width="60" height="60" as="geometry" />
+          <mxGeometry x="1790" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-88" target="SSFar1ZfGdF0vFPYDZeS-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-88" target="SSFar1ZfGdF0vFPYDZeS-115">
+        <mxCell id="cFecmpB_I7udm7z9pZme-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-88" target="SSFar1ZfGdF0vFPYDZeS-115" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1600" y="1050" />
@@ -202,7 +202,7 @@
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-92" target="SSFar1ZfGdF0vFPYDZeS-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-92" target="SSFar1ZfGdF0vFPYDZeS-115">
+        <mxCell id="cFecmpB_I7udm7z9pZme-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-92" target="SSFar1ZfGdF0vFPYDZeS-115" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1460" y="1030" />
@@ -219,52 +219,52 @@
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-98" value="GET&lt;br&gt;获取当日能量消耗" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1550" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-106" target="SSFar1ZfGdF0vFPYDZeS-111">
+        <mxCell id="cFecmpB_I7udm7z9pZme-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-106" target="SSFar1ZfGdF0vFPYDZeS-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="750" />
-              <mxPoint x="630" y="750" />
-              <mxPoint x="630" y="680" />
+              <mxPoint x="400" y="740" />
+              <mxPoint x="620" y="740" />
+              <mxPoint x="620" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-106" value="GET&lt;br&gt;获取食谱信息表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="790" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="750" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-108" target="SSFar1ZfGdF0vFPYDZeS-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-108" value="selectAll食谱信息&lt;br&gt;id，name，unit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1070" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="1128" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-110" target="SSFar1ZfGdF0vFPYDZeS-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-110" value="食品信息表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1304" width="60" height="60" as="geometry" />
+          <mxGeometry x="370" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-111" target="cFecmpB_I7udm7z9pZme-22">
+        <mxCell id="cFecmpB_I7udm7z9pZme-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-111" target="cFecmpB_I7udm7z9pZme-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-111" value="POST&lt;br&gt;录入饮食信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="SSFar1ZfGdF0vFPYDZeS-112" target="cFecmpB_I7udm7z9pZme-4">
+        <mxCell id="cFecmpB_I7udm7z9pZme-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-112" target="cFecmpB_I7udm7z9pZme-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-112" value="预测用数据表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="1304" width="60" height="60" as="geometry" />
+          <mxGeometry x="1290" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SSFar1ZfGdF0vFPYDZeS-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SSFar1ZfGdF0vFPYDZeS-115" target="SSFar1ZfGdF0vFPYDZeS-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SSFar1ZfGdF0vFPYDZeS-115" value="update预测用数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="SSFar1ZfGdF0vFPYDZeS-115" value="insert/update预测用数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="1128" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-4" value="select指定用户id的预测用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-4" value="select指定用户id的预测用数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="1218" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-7" target="cFecmpB_I7udm7z9pZme-9">
+        <mxCell id="cFecmpB_I7udm7z9pZme-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-7" target="cFecmpB_I7udm7z9pZme-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="1210" />
@@ -272,19 +272,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-7" value="饮食记录表" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1304" width="60" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-7" value="饮食记录表" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1362" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-9" target="cFecmpB_I7udm7z9pZme-30">
+        <mxCell id="cFecmpB_I7udm7z9pZme-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-9" target="cFecmpB_I7udm7z9pZme-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-9" value="selectAll饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="915" width="120" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-9" value="selectAll饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="895" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-12" target="cFecmpB_I7udm7z9pZme-7">
+        <mxCell id="cFecmpB_I7udm7z9pZme-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-12" target="cFecmpB_I7udm7z9pZme-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-11" target="cFecmpB_I7udm7z9pZme-7">
+        <mxCell id="cFecmpB_I7udm7z9pZme-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-11" target="cFecmpB_I7udm7z9pZme-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="860" y="1210" />
@@ -292,52 +292,72 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-11" value="insert今日饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="915" width="120" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-11" target="cFecmpB_I7udm7z9pZme-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="985" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-12" target="cFecmpB_I7udm7z9pZme-7">
+        <mxCell id="cFecmpB_I7udm7z9pZme-11" value="insert今日饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="897.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cFecmpB_I7udm7z9pZme-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cFecmpB_I7udm7z9pZme-12" target="cFecmpB_I7udm7z9pZme-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-12" value="update今日饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="915" width="120" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-12" target="cFecmpB_I7udm7z9pZme-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="985" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-22" target="cFecmpB_I7udm7z9pZme-12">
+        <mxCell id="cFecmpB_I7udm7z9pZme-12" value="update今日饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cFecmpB_I7udm7z9pZme-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-22" target="cFecmpB_I7udm7z9pZme-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-22" target="cFecmpB_I7udm7z9pZme-11">
+        <mxCell id="cFecmpB_I7udm7z9pZme-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-22" target="cFecmpB_I7udm7z9pZme-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-22" value="判断是否有&lt;br&gt;今日饮食记录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="780" width="100" height="80" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-22" value="判断是否有&lt;br&gt;今日饮食记录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="760" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-26" value="有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="867.5" width="60" height="30" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-26" value="有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="847.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-27" value="无" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="867.5" width="60" height="30" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-27" value="无" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="847.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-39" target="SSFar1ZfGdF0vFPYDZeS-111">
+        <mxCell id="cFecmpB_I7udm7z9pZme-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" parent="1" source="cFecmpB_I7udm7z9pZme-39" target="SSFar1ZfGdF0vFPYDZeS-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-30" value="GET&lt;br&gt;获取饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cFecmpB_I7udm7z9pZme-30" value="GET&lt;br&gt;获取饮食记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="cFecmpB_I7udm7z9pZme-30" target="cFecmpB_I7udm7z9pZme-39">
+        <mxCell id="cFecmpB_I7udm7z9pZme-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" parent="1" source="cFecmpB_I7udm7z9pZme-30" target="cFecmpB_I7udm7z9pZme-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="680" as="sourcePoint" />
             <mxPoint x="650" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-39" value="获取当日饮食记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cFecmpB_I7udm7z9pZme-39" value="获取当日饮食记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="665" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-45" value="计算今日营养摄入情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-45" target="cFecmpB_I7udm7z9pZme-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFecmpB_I7udm7z9pZme-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1060" width="120" height="60" as="geometry" />
+        <mxCell id="cFecmpB_I7udm7z9pZme-45" value="计算今日营养摄入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="955" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cFecmpB_I7udm7z9pZme-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="cFecmpB_I7udm7z9pZme-46" target="SSFar1ZfGdF0vFPYDZeS-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFecmpB_I7udm7z9pZme-46" value="insert/update营养摄入" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
